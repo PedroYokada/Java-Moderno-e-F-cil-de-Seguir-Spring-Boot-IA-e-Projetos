@@ -15,5 +15,10 @@ public class promocoes {
         float g = 1.5f;
         float h = f + g;
         System.out.println("Resultado de h: " + h);
+
+        int i = 10;
+        double j = 1.5;
+        double k = i * j; // a é promovido para double antes do cálculo
+        System.out.println("Resultado de k: " + k);
     }
 }
