@@ -1,7 +1,6 @@
 package promocao;
 
 public class PromocaoAutomatica {
-
   public static void main(String[] args){
     byte a = 127;
     short b = 2089;
